@@ -1,0 +1,12 @@
+target
+
+.studio
+
+.mule
+catalog
+
+
+.DS_Store
+
+activemq-data 
+derby.log
