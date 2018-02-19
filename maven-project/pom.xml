@@ -157,6 +157,18 @@
     <version>5.15.3</version>
 </dependency>
 
+<dependency>
+    <groupId>org.apache.activemq</groupId>
+    <artifactId>activemq-broker</artifactId>
+    <version>5.15.3</version>
+</dependency>
+
+<dependency>
+    <groupId>org.apache.activemq</groupId>
+    <artifactId>activemq-kahadb-store</artifactId>
+    <version>5.8.0</version>
+</dependency>
+
 
     <dependency>
             <groupId>org.mule.transports</groupId>
